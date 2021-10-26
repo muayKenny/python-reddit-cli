@@ -1,0 +1,2 @@
+msg = "yo"
+print(msg)
